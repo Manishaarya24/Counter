@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+   margin-top: 15%;
+   font-size: 50px;
+}
+#value{
+    font-size: 80px;
+    font-weight: bold;
+}
+.one{
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+}
+.one:hover{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: grey;
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1912525033/display_1500/stock-vector-white-pattern-with-white-d-numbers-on-it-play-of-light-and-shadow-letters-forming-texture-1912525033.jpg);
+    background-size: cover;
+    border: 7px solid black;
+    height: 100vh;
+}
